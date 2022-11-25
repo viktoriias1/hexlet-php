@@ -11,5 +11,7 @@
             "email": "vsol10@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.33"
+    }
 }
