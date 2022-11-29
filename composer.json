@@ -3,8 +3,9 @@
     "autoload": {
         "psr-4": {
             "Viktoriias1\\HexletPhp\\": "src/"
-        }
-    },
+        },
+        "files": ["src/Runner.php"]
+     },
     "authors": [
         {
             "name": "viktoriias1",
